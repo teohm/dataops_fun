@@ -1,0 +1,6 @@
+default_environment: dev
+project_id: 019a18a3-1e51-73af-b586-ad1f5a89666c
+environments:
+- name: dev
+- name: staging
+- name: prod
